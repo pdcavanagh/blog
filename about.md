@@ -4,12 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I am computer engineer and geologist currently pursuing my PhD at Indiana University. My goal is to return to a technical role as a software developer for an Indianapolis-based company. I aim to use my skills to contribute to an organization that is pushing the boundaries of software development, utilizing both web and mobile technologies, and the application of cutting-edge research. In addition, I am seeking a work environment that supports creativity, health, and gives back to the local community.
